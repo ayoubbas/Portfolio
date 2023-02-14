@@ -79,6 +79,10 @@ main h1::before {
   color: white !important;
 }
 
+
+.navbar-toggler-icon {
+  color: #8d8d8d
+}
 /* start hooome section */
 
 .br {
